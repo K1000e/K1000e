@@ -12,10 +12,10 @@ Don't forget to give my [repositories](https://github.com/k1000e?tab=repositorie
   	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/css.svg" alt="html logo" width="50" height="50"/>
 </div>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlefevregit&theme=react&show_icons=true&hide_border=true&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1000e&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## 📈 Github Stats
 <div style="display: flex; justify-content: space-between;">
-	<img src="https://github-readme-stats.vercel.app/api?username=hlefevregit&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
+	<img src="https://github-readme-stats.vercel.app/api?username=k1000e&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
 <!-- 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hlefevregit&theme=react&hide_border=true" style="width: 51%;"> -->
 </div>

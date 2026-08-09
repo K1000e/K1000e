@@ -69,7 +69,7 @@ A personal job application management application.
 - H2 → PostgreSQL migration in progress
 - Dockerization planned
 
-🔗 [View repository](#Job_Tracker)
+🔗 [View repository](#https://github.com/K1000e/Job-Tracker.git)
 
 ---
 

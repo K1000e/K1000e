@@ -85,7 +85,7 @@ Infrastructure project focused on Kubernetes and container orchestration.
 - Services & networking
 - Infrastructure configuration
 
-🔗 [View repository](#)
+🔗 [View repository](#https://github.com/Aytirix/Inception-of-Things.git)
 
 ---
 
@@ -102,7 +102,7 @@ Multi-service infrastructure project built with Docker.
 - Service isolation
 - Persistent volumes
 
-🔗 [View repository](#)
+🔗 [View repository](#https://github.com/K1000e/Inception.git)
 
 ---
 
@@ -120,7 +120,7 @@ I primarily worked on the **frontend**, contributing to the application's user i
 - API integration
 - Web application development
 
-🔗 [View repository](#)
+🔗 [View repository](#https://github.com/Aytirix/transcendence.git)
 
 ---
 
@@ -136,7 +136,7 @@ An IRC server implemented in C++.
 - Network programming
 - Concurrent connections
 
-🔗 [View repository](#)
+🔗 [View repository](#https://github.com/LeoPolizzi/Ft_IRC.git)
 
 ---
 
@@ -153,7 +153,7 @@ A UNIX shell inspired by Bash.
 - Signals
 - Environment management
 
-🔗 [View repository](#)
+🔗 [View repository](#https://github.com/K1000e/Minishell.git)
 
 ---
 
@@ -168,7 +168,7 @@ A security-oriented project focused on understanding vulnerabilities and exploit
 - Debugging
 - Exploitation fundamentals
 
-🔗 [View repository](#)
+🔗 [View repository](#) (to add)
 
 ---
 
@@ -183,7 +183,7 @@ A 3D maze renderer based on raycasting techniques.
 - Graphics programming
 - Event handling
 
-🔗 [View repository](#)
+🔗 [View repository](#https://github.com/K1000e/42-Cub3d.git)
 
 ---
 
@@ -214,4 +214,4 @@ Project-based software engineering education covering:
 📍 Nice, France · Mobile Bordeaux / Blois  
 💼 Open to software engineering apprenticeships starting September 2026
 
-[LinkedIn](#) · [Email](mailto:gorin.camillepro@gmail.com)
+[LinkedIn](#www.linkedin.com/in/camille-gorin-9440a11a1) · [Email](mailto:gorin.camillepro@gmail.com)

@@ -42,18 +42,21 @@ Currently building **JobTracker**, a Java/Spring Boot application to strengthen 
 
 ### 💼 JobTracker
 
-**Java · Spring Boot · JPA · Hibernate · REST API**
+**Java · Spring Boot · JPA · Hibernate · PostgreSQL · Docker · GitHub Actions**
 
 Personal application for managing job applications.
 
-* REST API
-* Controller / Service / Repository architecture
-* Company & job offer management
-* Entity relationships
-* Validation & exception handling
-* Unit & integration testing
-* Swagger / OpenAPI
-* H2 → PostgreSQL
+Features:
+- REST API with Spring Boot
+- Controller / Service / Repository architecture
+- Company and job offer management
+- PostgreSQL database with H2 for tests
+- Docker Compose environment
+- Environment-based configuration
+- Validation and global exception handling
+- Unit and integration testing
+- CI pipeline with GitHub Actions
+- Angular frontend in development
 
 [View repository](https://github.com/K1000e/Job-Tracker.git)
 

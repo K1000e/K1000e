@@ -74,7 +74,7 @@ Infrastructure project focused on container orchestration and Kubernetes deploym
 
 Multi-service infrastructure project using Docker Compose.
 
-[View repository](https://github.com/Aytirix/Inception.git)
+[View repository](https://github.com/K1000e/Inception.git)
 
 ### 🔌 ft_irc
 

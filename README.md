@@ -87,7 +87,7 @@ Multi-service infrastructure project using Docker Compose.
 
 IRC server implementing client/server communication and multi-client networking.
 
-[View repository](https://github.com/LeoPolizzi/Ft_IRC.git)
+Repository available upon request.
 
 ### 🐚 Minishell
 

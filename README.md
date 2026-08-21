@@ -117,6 +117,8 @@ Key concepts:
 - Object-oriented architecture
 - Exception handling
 
+[View repository](https://github.com/K1000e/avaj-launcher.git)
+
 ## 🎓 Education
 
 **42 Nice · 2024 – Present**

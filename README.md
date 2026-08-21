@@ -4,7 +4,9 @@
 
 I'm a software engineering student at **42 Nice**, focused on **backend development, full-stack applications and DevOps**.
 
-Currently building **JobTracker**, a Java/Spring Boot application to strengthen my backend and software architecture skills.
+Currently building **JobTracker**, a Java/Spring Boot application to strengthen my backend engineering skills.
+
+Open to backend development opportunities, freelance projects and software engineering apprenticeships.
 
 ## 🚀 Currently
 
@@ -111,6 +113,5 @@ L2 Computer Science.
 ## 📫 Contact
 
 📍 Nice, France · Mobile Bordeaux / Blois
-💼 Open to software engineering apprenticeships starting September 2026
 
 [LinkedIn](https://www.linkedin.com/in/camille-gorin-9440a11a1) · [Email](mailto:gorin.camillepro@gmail.com)
